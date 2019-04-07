@@ -1,6 +1,16 @@
-{"message":"Logger Message 0","level":"info"}
-{"message":"Logger Message 0","level":"error"}
-{"message":"Logger Message 0","level":"warn"}
-{"message":"Logger Message 1","level":"info"}
-{"message":"Logger Message 1","level":"error"}
-{"message":"Logger Message 1","level":"warn"}
+2019-04-07T20:08:18.500Z: info Logger Message 0
+2019-04-07T20:08:18.500Z: debug Logger Message 0
+2019-04-07T20:08:18.500Z: error Logger Message 0
+2019-04-07T20:08:18.500Z: warn Logger Message 0
+2019-04-07T20:08:20.516Z: info Logger Message 1
+2019-04-07T20:08:20.516Z: debug Logger Message 1
+2019-04-07T20:08:20.516Z: error Logger Message 1
+2019-04-07T20:08:20.516Z: warn Logger Message 1
+2019-04-07T20:08:22.520Z: info Logger Message 2
+2019-04-07T20:08:22.520Z: debug Logger Message 2
+2019-04-07T20:08:22.520Z: error Logger Message 2
+2019-04-07T20:08:22.520Z: warn Logger Message 2
+2019-04-07T20:08:24.524Z: info Logger Message 3
+2019-04-07T20:08:24.524Z: debug Logger Message 3
+2019-04-07T20:08:24.524Z: error Logger Message 3
+2019-04-07T20:08:24.524Z: warn Logger Message 3
